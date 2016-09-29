@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html>
 <title>Time To Help!</title>
 
-<xmp theme="united" style="display:none;">
+<xmp theme="united" style="display:none;">-->
 # Some Homework Help (9/28/2016)
 
 Here are some tips for the problems you requested help in.  In these types of problems you usually want to factor in some way so that you can simplify the expression!!:
@@ -21,8 +21,9 @@ Do you remember what the form of (a+b)^2 is (recognizing this form is helpful in
 you will need to factor difference of squares
 Do you remember how a^2-b^2 can be factored? [see some examples here: https://www.youtube.com/watch?v=tvnOWIoeeaU]
  
-   
+   <!--
 </xmp>
 
 <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
 </html>
+-->
