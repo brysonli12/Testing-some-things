@@ -7,6 +7,11 @@
 
 Here are some tips for the problems you requested help in.  In these types of problems you usually want to factor in some way so that you can simplify the expression!!:
 
+## For both problems
+
+You will need to factor difference of squares<br>
+Do you remember how `a^2-b^2` can be factored? [see some examples here: https://www.youtube.com/watch?v=tvnOWIoeeaU]
+ 
 ## For #36
 
 I think the solution is to factor by grouping
@@ -15,12 +20,6 @@ I think the solution is to factor by grouping
 ## For problem 39
 Do you remember what the form of `(a+b)^2` is (recognizing this form is helpful in this case)?  You might need to factor out a negative or something. [see your textbook and also this resource: http://hotmath.com/hotmath_help/topics/square-of-a-binomial.html ](http://hotmath.com/hotmath_help/topics/square-of-a-binomial.html)
 
-## For both problems
-
-
-You will need to factor difference of squares<br>
-Do you remember how `a^2-b^2` can be factored? [see some examples here: https://www.youtube.com/watch?v=tvnOWIoeeaU]
- 
    <!--
 </xmp>
 
