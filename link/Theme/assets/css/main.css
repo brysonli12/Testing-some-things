@@ -7,7 +7,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
 }
-
+green
+{
+  color: green;
+}
 h1,
 h2,
 h3,
@@ -420,6 +423,13 @@ hr {
   margin-top: 25px;
   padding-top: 35px;
   padding-bottom: 35px;
+}
+
+/* newly added for my site*/
+#watch {
+  width: 100%;/*copied from portfolio*/
+  background: #66ccff;
+  color: white;
 }
 
 #services h3 {
